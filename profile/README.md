@@ -1,6 +1,6 @@
 # The Cobalt Develop Team
 
-![](./team.png)
+![](https://github.com/The-Cobalt-Develop-Team/.github/blob/main/profile/team.png)
 
 From cobalt, to future.
 
