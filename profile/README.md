@@ -6,7 +6,7 @@ From cobalt, to future.
 
 # Main Developers
 
-Owner: `Andy Shen <andyshen2006@foxmail.com>`
+Owner: `Andy Shen <andyshen2006@outlook.com>`
 
 Administrator: `Renatus Madrigal <listener1381@outlook.com>`
 
@@ -24,7 +24,7 @@ Maintained
 
 ### Administrator
 
-Andy Shen `<andyshen2006@foxmail.com>`
+Andy Shen `<andyshen2006@outlook.com>`
 
 Renatus Madrigal `<listener1381@outlook.com>`
 
@@ -36,7 +36,7 @@ An encrypter for security.
 
 ### Status
 
-Active
+Obsolete
 
 ### Administrator
 
@@ -50,11 +50,11 @@ A physics engine.
 
 ### Status
 
-Obsolete
+Active
 
 ### Administrator
 
-Andy Shen `<andyshen2006@foxmail.com>`
+Renatus Madrigal `<listener1381@outlook.com>`
 
 ## [Phosphine](https://github.com/The-Cobalt-Develop-Team/phosphine)
 
@@ -64,11 +64,11 @@ A physics engine by haskell.
 
 ### Status
 
-Maintained
+Obsolete
 
 ### Administrator
 
-Andy Shen `<andyshen2006@foxmail.com>`
+Andy Shen `<andyshen2006@outlook.com>`
 
 ## [Lithium](https://github.com/The-Cobalt-Develop-Team/lithium)
 
@@ -78,11 +78,11 @@ A Logger System.
 
 ### Status
 
-Odd Fixes
+Obsolete
 
 ### Administrator
 
-Andy Shen `<andyshen2006@foxmail.com>`
+Andy Shen `<andyshen2006@outlook.com>`
 
 ## [Radon](https://github.com/The-Cobalt-Develop-Team/radon)
 
@@ -92,8 +92,8 @@ A random library forked from [cdg](https://github.com/AndyShen2006/cdg).
 
 ### Status
 
-Odd Fixes
+Obsolete
 
 ### Administrator
 
-Andy Shen `<andyshen2006@foxmail.com>`
+Andy Shen `<andyshen2006@outlook.com>`
